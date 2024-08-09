@@ -10,3 +10,6 @@
 [submodule "sperm_genetic_algorithm"]
 	path = sperm_genetic_algorithm
 	url = git@github.com:mastershin/sperm_genetic_algorithm.git
+[submodule "population-growth-simulation"]
+	path = population-growth-simulation
+	url = git@github.com:mastershin/population-growth-simulation.git
