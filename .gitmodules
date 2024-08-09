@@ -4,3 +4,6 @@
 [submodule "intelligent-scissors"]
 	path = intelligent-scissors
 	url = git@github.com:mastershin/intelligent-scissors.git
+[submodule "snake-active-contour"]
+	path = snake-active-contour
+	url = git@github.com:mastershin/snake-active-contour.git
