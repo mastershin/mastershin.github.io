@@ -7,3 +7,6 @@
 [submodule "snake-active-contour"]
 	path = snake-active-contour
 	url = git@github.com:mastershin/snake-active-contour.git
+[submodule "sperm_genetic_algorithm"]
+	path = sperm_genetic_algorithm
+	url = git@github.com:mastershin/sperm_genetic_algorithm.git
