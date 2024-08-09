@@ -1,3 +1,6 @@
 [submodule "learn-artificial-life-101"]
 	path = learn-artificial-life-101
 	url = git@github.com:mastershin/learn-artificial-life-101.git
+[submodule "intelligent-scissors"]
+	path = intelligent-scissors
+	url = git@github.com:mastershin/intelligent-scissors.git
